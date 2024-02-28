@@ -29,7 +29,7 @@ Can be run on Windows VPS servers
 
 4. setup config.json and add your Proxy details and Add your presale token symbol
 
-5. Setup the Thread amount in config.json file (Min 1-5 higher amount of threads might crash your Ram0
+5. Setup the Thread amount in config.json file (Min 1-5 higher amount of threads might crash your Ram)
 
 6. Run the bot by Double clicking Bot.bat 
 

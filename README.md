@@ -21,7 +21,7 @@ Can be run on Windows VPS servers
 - Scrolling the page ✓
 
 ## Installation
-1. Install Python 3.12.2 and customize installation with must tick on Install for all users and python environment variables.
+1. Install Python 3.13.0 and customize installation with must tick on Install for all users and python environment variables.
 
 2. Update your Chrome version to the latest version.
 
@@ -38,7 +38,7 @@ Can be run on Windows VPS servers
 
 🔺 121 Chrome Version or higher
 
-🔺 Python Latest Version 3.12.2
+🔺 Python Latest Version 3.13.0
 
 🔺 Rotating Proxies (I prefer use from Smartproxy.com / webshare.io)
 
